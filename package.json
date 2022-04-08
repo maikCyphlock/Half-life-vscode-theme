@@ -18,7 +18,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "cypher effect",
+                "label": "Half life",
                 "uiTheme": "vs-dark",
                 "path": "./themes/cypher effect-color-theme.json"
             }

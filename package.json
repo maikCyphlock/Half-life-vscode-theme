@@ -6,7 +6,7 @@
     "publisher": "Maikcyphlock",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/maikCyphlock/Half-life-vscode-theme"
 
     },
     "engines": {

@@ -7,7 +7,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/maikCyphlock/Half-life-vscode-theme"
-
     },
     "engines": {
         "vscode": "^1.66.0"
@@ -23,5 +22,8 @@
                 "path": "./themes/cypher effect-color-theme.json"
             }
         ]
+    },
+    "devDependencies": {
+        "license-generator": "^0.0.13"
     }
 }

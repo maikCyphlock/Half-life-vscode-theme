@@ -4,6 +4,7 @@
     "description": "Theme inspired in Half Life, was one of the first games that I've played.",
     "version": "0.0.2",
     "publisher": "Maikcyphlock",
+    "icon": "icon/icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/maikCyphlock/Half-life-vscode-theme"

@@ -1,0 +1,27 @@
+{
+    "name": "half-life-theme",
+    "displayName": "Half Life theme",
+    "description": "Theme inspired in Half Life, was one of the first games that I've played.",
+    "version": "0.0.1",
+    "publisher": "Maikcyphlock",
+    "repository": {
+        "type": "git",
+        "url": ""
+
+    },
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "cypher effect",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cypher effect-color-theme.json"
+            }
+        ]
+    }
+}

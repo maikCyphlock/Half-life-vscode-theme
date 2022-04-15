@@ -4,7 +4,7 @@
 		"editor.background": "#0f1815",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#081f11",
-		"sideBarTitle.foreground": "#dd89cf",
+		"sideBarTitle.foreground": "#7c5c33",
 		"activityBar.inactiveForeground": "#caff61",
 		"activityBar.background": "#352f25",
 		
@@ -29,7 +29,9 @@
 		"statusBar.noFolderBackground": "#352f25"
 	},
 	"tokenColors": [
+	
 		{
+			
 			"name": "Comment",
 			"scope": [
 				"comment",
@@ -260,7 +262,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#9784a7"
 			}
 		},
 		{
@@ -316,7 +318,7 @@
 				"markup.changed"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#3c7445"
 			}
 		},
 		{
@@ -366,7 +368,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#3d2e31"
 			}
 		},
 		{
@@ -375,7 +377,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#478359"
 			}
 		},
 		{

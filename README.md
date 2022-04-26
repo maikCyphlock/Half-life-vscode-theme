@@ -3,7 +3,7 @@
 this is a vscode theme inspired by one of the games I played as a kid and I used its main colors to translate it in my favorite editor
 ## thumbnail
 
-![half-life](images\main.png)
+![half-life](images/main.png)
 
 ## logo
 ![half-life](https://static.gamehag.com/upload/GHumKKNxuJFS8j8VUDIsmkv5xnHglD.png)
